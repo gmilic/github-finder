@@ -17,10 +17,16 @@ class Users extends Component {
         html_url: 'https://github.com/defunkt'
       },
       {
-        id: '31',
+        id: '3',
         login: 'pjhyett',
         avatar_url: 'https://avatars0.githubusercontent.com/u/3?v=4',
         html_url: 'https://github.com/pjhyett'
+      },
+      {
+        id: '4',
+        login: 'neko',
+        avatar_url: 'https://avatars0.githubusercontent.com/u/222?v=4',
+        html_url: 'https://github.com/mojombo'
       }
     ]
   }
